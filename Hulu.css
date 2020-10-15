@@ -5,7 +5,7 @@ html, body {
 }
 
 .hero {
-    background-image: url("/HuluHero.jpg");
+    background-image: url("./assets/HuluHero.jpg");
     text-align: center;
     padding: 100px;
 }
